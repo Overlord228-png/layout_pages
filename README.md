@@ -13,4 +13,5 @@
 3. dYdX-Grants -> https://www.figma.com/file/eWP1AMJzYWDDTbxzkSu4Bg/dYdX-Grants?type=design&node-id=2352-31473&mode=design;
    - HTML/CSS/JS
 
-4.
+4. Интернет магазин ->
+   - HTML/CSS/SCSS/Bootstrap5/JS
