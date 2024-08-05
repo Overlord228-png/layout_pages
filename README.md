@@ -14,8 +14,5 @@
 3. dYdX-Grants -> https://www.figma.com/file/eWP1AMJzYWDDTbxzkSu4Bg/dYdX-Grants?type=design&node-id=2352-31473&mode=design;
    - HTML/CSS/JS
 
-4. Food Zero -> https://www.figma.com/design/EQ59WackWtt5V5eevJpvA3/FoodZero?node-id=0-1;
-   - React/SCSS + адаптив
-
-5. Odiqo -> https://www.figma.com/design/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0-1;
+4. Odiqo -> https://www.figma.com/design/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0-1;
    HTML/CSS/JS
